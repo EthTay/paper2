@@ -1,0 +1,758 @@
+/user/HS301/m18366/.local/lib/python3.6/site-packages/numpy/core/fromnumeric.py:3373: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/user/HS301/m18366/.local/lib/python3.6/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in true_divide
+  ret = ret.dtype.type(ret / rcount)
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/scripts/GC_functions.py:171: RuntimeWarning: divide by zero encountered in log10
+  Mbol = (Mbolsol - 2.5 * np.log10(lum)) - BC(Teff)
+Full
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00031_27
+>    Less than 10 bound particles.
+>    27, 6.34s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_142
+>    Less than 10 bound particles.
+>    142, 32.84s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00030_102
+>    Less than 10 bound particles.
+>    102, 7.54s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00029_24
+>    Less than 10 bound particles.
+>    24, 6.86s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_132
+>    Less than 10 bound particles.
+>    132, 1.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_205
+>    Less than 10 bound particles.
+>    205, 45.47s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00036_45
+>    Less than 10 bound particles.
+>    45, 21.79s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_48
+>    Less than 10 bound particles.
+>    48, 14.11s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_129
+>    Less than 10 bound particles.
+>    129, 99.97s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_105
+>    105, 15.25s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_179
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_199
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_16
+>    16, 21.40s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_85
+>    Less than 10 bound particles.
+>    85, 49.03s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_160
+>    Less than 10 bound particles.
+>    160, 2.60s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_7
+>    Less than 10 bound particles.
+>    7, 12.19s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_52
+>    52, 17.02s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00031_42
+>    Less than 10 bound particles.
+>    42, 16.95s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_145
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    145, 30.28s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_183
+>    Less than 10 bound particles.
+>    183, 1.66s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00032_48
+>    Less than 10 bound particles.
+>    48, 2.08s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo624_fiducial_hires_output_00025_9
+>    9, 40.87s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00044_196
+>    Less than 10 bound particles.
+>    196, 1.71s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_147
+>    Less than 10 bound particles.
+>    147, 87.84s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_23
+>    Less than 10 bound particles.
+>    23, 32.98s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_54
+>    Less than 10 bound particles.
+>    54, 1.60s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo624_fiducial_hires_output_00021_6
+>    6, 12.92s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_148
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    148, 31.27s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00022_18
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    18, 14.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_140
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_56
+>    Less than 10 bound particles.
+>    56, 8.03s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_40
+>    Less than 10 bound particles.
+>    40, 13.25s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_49
+>    Less than 10 bound particles.
+>    49, 4.00s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_128
+>    Less than 10 bound particles.
+>    128, 1.57s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_161
+>    Less than 10 bound particles.
+>    161, 12.21s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00017_1
+>    Less than 10 bound particles.
+>    1, 12.40s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_36
+>    Less than 10 bound particles.
+>    36, 10.79s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_137
+>    Less than 10 bound particles.
+>    137, 45.32s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_96
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    96, 19.15s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_67
+>    Less than 10 bound particles.
+>    67, 3.18s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo624_fiducial_hires_output_00017_2
+>    Less than 10 bound particles.
+>    2, 19.43s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_11
+>    Less than 10 bound particles.
+>    11, 1.78s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_63
+>    Less than 10 bound particles.
+>    63, 46.40s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00019_8
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    8, 19.23s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_188
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_119
+>    Less than 10 bound particles.
+>    119, 1.84s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_167
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_83
+>    Less than 10 bound particles.
+>    83, 2.44s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_99
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    99, 147.97s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00020_14
+>    Updating data entry on Halo383_fiducial_early_output_00020_14...
+>    14, 261.03s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00042_197
+>    Less than 10 bound particles.
+>    197, 131.42s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_78
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    78, 23.76s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00019_7
+>    Less than 10 bound particles.
+>    7, 14.92s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_124
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_58
+>    Less than 10 bound particles.
+>    58, 4.13s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_69
+>    Less than 10 bound particles.
+>    69, 3.22s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_5
+>    Less than 10 bound particles.
+>    5, 5.92s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_177
+>    Less than 10 bound particles.
+>    177, 2.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_165
+>    Less than 10 bound particles.
+>    165, 1.20s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00045_201
+>    201, 29.20s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_57
+>    Less than 10 bound particles.
+>    57, 0.90s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_73
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    73, 21.18s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_41
+>    Less than 10 bound particles.
+>    41, 13.93s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00030_84
+>    Less than 10 bound particles.
+>    84, 9.09s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_47
+>    Less than 10 bound particles.
+>    47, 14.86s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00027_50
+>    Less than 10 bound particles.
+>    50, 30.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_90
+>    90, 16.83s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_157
+>    Less than 10 bound particles.
+>    157, 11.32s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00017_16
+>    Less than 10 bound particles.
+>    16, 34.11s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00025_30
+>    Less than 10 bound particles.
+>    30, 22.66s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_50
+>    Less than 10 bound particles.
+>    50, 36.86s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00037_113
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    113, 25.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo600_fiducial_hires_output_00029_1
+>    Less than 10 bound particles.
+>    1, 10.30s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_47
+>    Less than 10 bound particles.
+>    47, 32.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_112
+>    Less than 10 bound particles.
+>    112, 6.82s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00031_28
+>    Less than 10 bound particles.
+>    28, 24.34s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00040_59
+>    59, 75.74s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_43
+>    Less than 10 bound particles.
+>    43, 7.48s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00026_39
+>    Less than 10 bound particles.
+>    39, 17.25s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_146
+>    Less than 10 bound particles.
+>    146, 23.95s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo600_fiducial_hires_output_00029_4
+>    Less than 10 bound particles.
+>    4, 17.50s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_178
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    178, 39.25s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_135
+>    Less than 10 bound particles.
+>    135, 2.89s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo624_fiducial_hires_output_00017_4
+Read all OUT3 files.
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    4, 122.38s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_109
+>    Less than 10 bound particles.
+>    109, 14.02s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_164
+>    Less than 10 bound particles.
+>    164, 70.95s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_91
+>    Less than 10 bound particles.
+>    91, 44.58s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_51
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    51, 28.88s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_13
+>    Less than 10 bound particles.
+>    13, 66.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_141
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo1459_fiducial_hires_output_00021_3
+>    Less than 10 bound particles.
+>    3, 5.16s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_139
+>    Less than 10 bound particles.
+>    139, 16.10s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo1459_fiducial_hires_output_00020_2
+>    Less than 10 bound particles.
+>    2, 30.08s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_106
+>    Less than 10 bound particles.
+>    106, 1.35s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_168
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00031_46
+>    46, 13.41s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00022_17
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    17, 14.11s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00025_31
+>    Less than 10 bound particles.
+>    31, 10.35s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_120
+>    Less than 10 bound particles.
+>    120, 16.92s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00025_22
+>    Less than 10 bound particles.
+>    22, 70.02s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_149
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    149, 68.78s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_94
+>    Less than 10 bound particles.
+>    94, 1.70s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_176
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_70
+>    Less than 10 bound particles.
+>    70, 1.61s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_65
+>    Less than 10 bound particles.
+>    65, 8.22s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00037_116
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    116, 18.26s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_171
+>    Less than 10 bound particles.
+>    171, 7.61s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00034_72
+>    Less than 10 bound particles.
+>    72, 21.57s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00032_45
+>    Less than 10 bound particles.
+>    45, 33.23s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_12
+>    Less than 10 bound particles.
+>    12, 1.64s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_95
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    95, 12.80s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_77
+>    Less than 10 bound particles.
+>    77, 4.95s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_93
+>    Less than 10 bound particles.
+>    93, 13.74s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_59
+>    Less than 10 bound particles.
+>    59, 1.47s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_107
+>    Less than 10 bound particles.
+>    107, 0.45s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00025_35
+>    Less than 10 bound particles.
+>    35, 11.84s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_186
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_25
+>    Less than 10 bound particles.
+>    25, 7.39s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_104
+>    Less than 10 bound particles.
+>    104, 1.62s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00017_45
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    45, 6.23s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_203
+>    Less than 10 bound particles.
+>    203, 61.72s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_121
+>    Less than 10 bound particles.
+>    121, 10.73s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_37
+>    Less than 10 bound particles.
+>    37, 23.87s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_182
+>    Less than 10 bound particles.
+>    182, 4.57s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00040_61
+>    Less than 10 bound particles.
+>    61, 13.05s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_53
+>    Less than 10 bound particles.
+>    53, 0.77s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00020_8
+>    Less than 10 bound particles.
+>    8, 2.90s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_126
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    126, 178.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_17
+>    Less than 10 bound particles.
+>    17, 5.54s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_92
+>    Less than 10 bound particles.
+>    92, 9.08s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_79
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    79, 39.61s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_68
+>    Less than 10 bound particles.
+>    68, 1.59s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00029_23
+>    Less than 10 bound particles.
+>    23, 2.21s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00035_36
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    36, 76.50s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_159
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    159, 62.01s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_38
+>    Less than 10 bound particles.
+>    38, 8.38s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_86
+>    Less than 10 bound particles.
+>    86, 14.80s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00025_32
+>    Less than 10 bound particles.
+>    32, 2.24s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_82
+>    Less than 10 bound particles.
+>    82, 2.39s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_76
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    76, 16.30s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_75
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    75, 13.10s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00020_4
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_204
+>    Less than 10 bound particles.
+>    204, 5.31s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00026_51
+>    Less than 10 bound particles.
+>    51, 33.35s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_15
+>    15, 42.76s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00027_37
+>    Less than 10 bound particles.
+>    37, 12.11s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00032_44
+>    Less than 10 bound particles.
+>    44, 6.69s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo624_fiducial_hires_output_00022_5
+>    Less than 10 bound particles.
+>    5, 6.10s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_23
+>    Less than 10 bound particles.
+>    23, 11.86s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_15
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    15, 13.52s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_71
+>    Less than 10 bound particles.
+>    71, 7.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00040_154
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_80
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    80, 87.01s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00031_191
+>    Less than 10 bound particles.
+>    191, 28.15s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_130
+>    Unbound entry.
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_125
+>    Less than 10 bound particles.
+>    125, 18.13s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_97
+>    Less than 10 bound particles.
+>    97, 3.31s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_136
+>    Less than 10 bound particles.
+>    136, 0.80s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00038_133
+>    Less than 10 bound particles.
+>    133, 1.02s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_21
+>    Less than 10 bound particles.
+>    21, 1.45s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00017_2
+>    Less than 10 bound particles.
+>    2, 14.60s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_13
+>    Less than 10 bound particles.
+>    13, 22.71s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo1459_fiducial_hires_output_00023_4
+Read all OUT3 files.
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    4, 57.54s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_64
+>    Less than 10 bound particles.
+>    64, 1.56s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00030_134
+>    Less than 10 bound particles.
+>    134, 5.40s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00017_9
+>    Less than 10 bound particles.
+>    9, 5.46s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00033_34
+>    Less than 10 bound particles.
+>    34, 3.05s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00019_9
+>    9, 7.87s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00024_20
+>    Less than 10 bound particles.
+>    20, 13.10s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00014_5
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    5, 58.07s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_81
+>    Less than 10 bound particles.
+>    81, 91.41s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00017_20
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    20, 305.85s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00023_24
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    24, 26.53s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00039_184
+Read all OUT3 files.
+>    184, 227.69s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00042_181
+>    Less than 10 bound particles.
+>    181, 1.28s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00021_3
+>    Less than 10 bound particles.
+>    3, 177.61s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00033_89
+>    Less than 10 bound particles.
+>    89, 15.30s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00021_14
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    14, 9.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00036_40
+>    Less than 10 bound particles.
+>    40, 8.83s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00032_49
+>    Less than 10 bound particles.
+>    49, 9.65s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_158
+>    Less than 10 bound particles.
+>    158, 0.65s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00036_110
+>    Less than 10 bound particles.
+>    110, 12.01s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00045_198
+>    Less than 10 bound particles.
+>    198, 2.91s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00035_88
+Read all OUT3 files.
+>    Less than 10 bound particles.
+>    88, 121.57s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00041_163
+>    Less than 10 bound particles.
+>    163, 11.53s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00040_58
+>    Updating data entry on Halo383_fiducial_early_output_00040_58...
+>    58, 8.65s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo605_fiducial_hires_output_00033_33
+>    Less than 10 bound particles.
+>    33, 1.55s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_fiducial_early_output_00021_13
+>    13, 104.38s
+Saving...
+/vol/ph/astro_data/shared/morkney2/GC_mock_obs/Nbody6_sims/Full/Halo383_Massive_output_00030_101
+>    Less than 10 bound particles.
+>    101, 17.04s
+Saving...
